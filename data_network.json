@@ -1,0 +1,348 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "name": "Atlanta Hawks"
+    },
+    {
+      "id": 2,
+      "name": "Boston Celtics"
+    },
+    {
+      "id": 3,
+      "name": "Brooklyn Nets"
+    },
+    {
+      "id": 4,
+      "name": "Charlotte Hornets"
+    },
+    {
+      "id": 5,
+      "name": "Chicago Bulls"
+    },
+    {
+      "id": 6,
+      "name": "Cleveland Cavaliers"
+    },
+    {
+      "id": 7,
+      "name": "Dallas Mavericks"
+    },
+    {
+      "id": 8,
+      "name": "Denver Nuggets"
+    },
+    {
+      "id": 9,
+      "name": "Detroit Pistons"
+    },
+    {
+      "id": 10,
+      "name": "Golden State Warriors"
+    },
+        {
+      "id": 11,
+      "name": "Houston Rockets"
+    },
+    {
+      "id": 12,
+      "name": "Indiana Pacers"
+    },
+    {
+      "id": 13,
+      "name": "Los Angeles Clippers"
+    },
+    {
+      "id": 14,
+      "name": "Los Angeles Lakers"
+    },
+    {
+      "id": 15,
+      "name": "Memphis Grizzlies"
+    },
+    {
+      "id": 16,
+      "name": "Miami Heat"
+    },
+    {
+      "id": 17,
+      "name": "Milwaukee Bucks"
+    },
+    {
+      "id": 18,
+      "name": "New Orleans Pelicans"
+    },
+    {
+      "id": 19,
+      "name": "New York Knicks"
+    },
+    {
+      "id": 20,
+      "name": "Oklahoma City Thunder"
+    },
+        {
+      "id": 21,
+      "name": "Orlando Magic"
+    },
+    {
+      "id": 22,
+      "name": "Philadelphia 76ers"
+    },
+    {
+      "id": 23,
+      "name": "Phoenix Suns"
+    },
+    {
+      "id": 24,
+      "name": "Portand Trail Blazers"
+    },
+    {
+      "id": 25,
+      "name": "Sacramento Kings"
+    },
+    {
+      "id": 26,
+      "name": "San Antonio Spurs"
+    },
+    {
+      "id": 27,
+      "name": "Utah Jazz"
+    },
+    {
+      "id": 28,
+      "name": "Washington Wizards"
+    }
+  ],
+  "links": [
+    {
+      "source": "Milwaukee Bucks",
+      "target": "Cleveland Cavaliers",
+      "value": 0
+    },
+    {
+      "source": "Milwaukee Bucks",
+      "target": "Sacramento Kings",
+      "value": 0
+    },
+    {
+      "source": "Detroit Pistons",
+      "target": "Philadelphia 76ers",
+      "value": 1
+    },
+    {
+      "source": "Cleveland Cavaliers",
+      "target": "Los Angeles Lakers",
+      "value": 1
+    },
+    {
+      "source": "Dallas Mavericks",
+      "target": "Houston Rockets",
+      "value": 1
+    },
+    {
+      "source": "Miami Heat",
+      "target": "San Antonio Spurs",
+      "value": 1
+    },
+    {
+      "source": "Miami Heat",
+      "target": "Los Angeles Lakers",
+      "value": 1
+    },
+    {
+      "source": "Brooklyn Nets",
+      "target": "Los Angeles Lakers",
+      "value": 1
+    },
+    {
+      "source": "Brooklyn Nets",
+      "target": "Houston Rockets",
+      "value": 1
+    },
+    {
+      "source": "Sacramento Kings",
+      "target": "Los Angeles Lakers",
+      "value": 1
+    },
+    {
+      "source": "Houston Rockets",
+      "target": "Golden State Warriors",
+      "value": 0
+    },
+    {
+      "source": "Los Angeles Lakers",
+      "target": "Los Angeles Clippers",
+      "value": 1
+    },
+    {
+      "source": "Sacramento Kings",
+      "target": "Philadelphia 76ers",
+      "value": 1
+    },
+    {
+      "source": "San Antonio Spurs",
+      "target": "Miami Heat",
+      "value": 0
+    },
+    {
+      "source": "Portand Trail Blazers",
+      "target": "Miami Heat",
+      "value": 0
+    },
+    {
+      "source": "Chicago Bulls",
+      "target": "Boston Celtics",
+      "value": 0
+    },
+    {
+      "source": "New York Knicks",
+      "target": "Golden State Warriors",
+      "value": 0
+    },
+    {
+      "source": "Denver Nuggets",
+      "target": "Golden State Warriors",
+      "value": 0
+    },
+    {
+      "source": "Portand Trail Blazers",
+      "target": "Golden State Warriors",
+      "value": 0
+    },
+    {
+      "source": "New York Knicks",
+      "target": "Denver Nuggets",
+      "value": 1
+    },
+    {
+      "source": "San Antonio Spurs",
+      "target": "Denver Nuggets",
+      "value": 0
+    },
+    {
+      "source": "Houston Rockets",
+      "target": "Denver Nuggets",
+      "value": 1
+    },
+    {
+      "source": "Portand Trail Blazers",
+      "target": "San Antonio Spurs",
+      "value": 1
+    },
+    {
+      "source": "Houston Rockets",
+      "target": "Brooklyn Nets",
+      "value": 0
+    },
+    {
+      "source": "Milwaukee Bucks",
+      "target": "Boston Celtics",
+      "value": 0
+    },
+    {
+      "source": "Golden State Warriors",
+      "target": "Milwaukee Bucks",
+      "value": 1
+    },
+    {
+      "source": "Golden State Warriors",
+      "target": "Atlanta Hawks",
+      "value": 1
+    },
+    {
+      "source": "Orlando Magic",
+      "target": "Memphis Grizzlies",
+      "value": 0
+    },
+    {
+      "source": "Washington Wizards",
+      "target": "New York Knicks",
+      "value": 1
+    },
+    {
+      "source": "Boston Celtics",
+      "target": "Orlando Magic",
+      "value": 1
+    },
+    {
+      "source": "Oklahoma City Thunder",
+      "target": "Sacramento Kings",
+      "value": 0
+    },
+    {
+      "source": "Boston Celtics",
+      "target": "Charlotte Hornets",
+      "value": 1
+    },
+    {
+      "source": "Boston Celtics",
+      "target": "Philadelphia 76ers",
+      "value": 1
+    },
+    {
+      "source": "Brooklyn Nets",
+      "target": "Miami Heat",
+      "value": 1
+    },
+    {
+      "source": "Indiana Pacers",
+      "target": "Chicago Bulls",
+      "value": 1
+    },
+    {
+      "source": "New York Knicks",
+      "target": "Boston Celtics",
+      "value": 0
+    },
+    {
+      "source": "Los Angeles Lakers",
+      "target": "Phoenix Suns",
+      "value": 0
+    },
+    {
+      "source": "Golden State Warriors",
+      "target": "Dallas Mavericks",
+      "value": 1
+    },
+    {
+      "source": "New Orleans Pelicans",
+      "target": "Indiana Pacers",
+      "value": 0
+    },
+    {
+      "source": "Milwaukee Bucks",
+      "target": "Brooklyn Nets",
+      "value": 0
+    },
+    {
+      "source": "Washington Wizards",
+      "target": "Portand Trail Blazers",
+      "value": 1
+    },
+    {
+      "source": "Utah Jazz",
+      "target": "Golden State Warriors",
+      "value": 1
+    },
+    {
+      "source": "Boston Celtics",
+      "target": "Utah Jazz",
+      "value": 1
+    },
+    {
+      "source": "Golden State Warriors",
+      "target": "Charlotte Hornets",
+      "value": 1
+    },
+    {
+      "source": "Boston Celtics",
+      "target": "Atlanta Hawks",
+      "value": 1
+    },
+    {
+      "source": "Philadelphia 76ers",
+      "target": "Boston Celtics",
+      "value": 0
+    }
+  ]
+}
